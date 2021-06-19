@@ -1,0 +1,33 @@
+{
+  "title": "Clean Freak! Aoyama-Kun",
+  "description": "Aoyama is a handsome young soccer genius who's a Japan representative. His play style is 'cleanliness'. He doesn't tackle and doesn't head the ball. If he's doing a throw-in, he'll only do it if he's wearing gloves.",
+  "artist": "Sakamoto Taku",
+  "author": "Sakamoto Taku",
+  "cover": "https://i.imgur.com/oM82xHy.jpg",
+  "chapters": {
+    "06": {
+      "title": "The Reason Aoyama-Kun Is Missing",
+      "volume": "02",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/by3U3NG/"
+      },
+      "last_updated": "1622812643"
+    },
+     "07": {
+      "title": "Takechi-Kun Eats A Lot",
+      "volume": "02",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/74Z2QCT/"
+      },
+      "last_updated": "1623751251"
+    },
+     "08": {
+      "title": "I Want To Take Aoyama-Kun's Picture",
+      "volume": "02",
+      "groups": {
+        "ROCK-paper-SCISSORS & Infrequent Scans": "/proxy/api/imgur/chapter/PbLyCI3/"
+      },
+      "last_updated": "1624088491"
+    }
+  }
+}
